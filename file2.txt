@@ -1,3 +1,6 @@
 Adding a line of text in new file
 
 Adding one more line to file2.txt here
+
+1 line
+2 line
